@@ -214,7 +214,7 @@ Por fim, foram retomados dois princípios importantes:
 
 O notebook utilizado como segundo cérebro está disponível em:
 
-**https://notebook.google.com/notebook/84bea9ea-86dc-4543-9cae-38018d8ecf79**
+**[LINK DO NOTEBOOK](https://notebook.google.com/notebook/84bea9ea-86dc-4543-9cae-38018d8ecf79)**
 
 ---
 
@@ -260,6 +260,13 @@ Engenharia de Dados
 ```
 
 ---
+
+# 📝 Arquivos confeccionados
+
+**[NotebookLM Mind Map](./NotebookLM%20Mind%20Map.png)**
+**[Briefing: Estado Atual e Evolução da Engenharia de Dados (2024-2026)](./Briefing_%20Estado%20Atual%20e%20Evolução%20da%20Engenharia%20de%20Dados%20(2024-2026).pdf)**
+**[Arquitetura medalhão e orquestração de dados](./Arquitetura_medalhão_e_orquestração_de_dados.m4a)**
+**[Stack de Dados Moderna](https://drive.google.com/file/d/1uy8DGXRHVNI2IeUOz_pW2hiAr5qXDRVr/view?usp=drive_link)**
 
 ## 🚀 Propósito deste repositório
 
