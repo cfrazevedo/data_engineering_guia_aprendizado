@@ -214,9 +214,7 @@ Por fim, foram retomados dois princípios importantes:
 
 O notebook utilizado como segundo cérebro está disponível em:
 
-**[LINK DO NOTEBOOK]**
-
-> Substitua o endereço acima pelo link público/compartilhado do seu notebook.
+**https://notebook.google.com/notebook/84bea9ea-86dc-4543-9cae-38018d8ecf79**
 
 ---
 
