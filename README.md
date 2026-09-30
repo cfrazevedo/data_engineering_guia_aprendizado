@@ -264,8 +264,11 @@ Engenharia de Dados
 # 📝 Arquivos confeccionados
 
 **[NotebookLM Mind Map](./NotebookLM%20Mind%20Map.png)**
+
 **[Briefing: Estado Atual e Evolução da Engenharia de Dados (2024-2026)](./Briefing_%20Estado%20Atual%20e%20Evolução%20da%20Engenharia%20de%20Dados%20(2024-2026).pdf)**
-**[Arquitetura medalhão e orquestração de dados](./Arquitetura_medalhão_e_orquestração_de_dados.m4a)**
+
+**[Arquitetura medalhão e orquestração de dados](https://drive.google.com/file/d/1ZCSXyl9R7fo-U8ICoTH1d9xvyTItRAbZ/view?usp=sharing)**
+
 **[Stack de Dados Moderna](https://drive.google.com/file/d/1uy8DGXRHVNI2IeUOz_pW2hiAr5qXDRVr/view?usp=drive_link)**
 
 ## 🚀 Propósito deste repositório
